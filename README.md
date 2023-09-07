@@ -1,0 +1,2 @@
+# js-leaning
+Learning JavaScript
